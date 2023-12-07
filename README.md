@@ -4,14 +4,7 @@
 - 🔭 I’m currently working on Suport
 - 🌱 I’m currently learning C# and .NET
   
-  ##
- 
- 
-<div align="center">
-  <a href="https://github.com/vrfjr">
-  <img height="180em" src="https://github-readme-stats-vrfjr.vercel.app/api?username=vrfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-vrfjr.vercel.app/api/top-langs/?username=vrfjr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
   ##
  
@@ -21,7 +14,7 @@
   <img align="center" alt="Vagner-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vagner-Csharp" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
-  <img align="right" alt="Vagner-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1582897202623553536/HZom0njI.jpg">
+
 </div>
   
   ##
