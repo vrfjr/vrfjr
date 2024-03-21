@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Suport
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning Back-end
   
 
   
@@ -14,6 +14,11 @@
   <img align="center" alt="Vagner-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vagner-Csharp" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Vagner-DotNet" height="60" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+  
 
 </div>
   
